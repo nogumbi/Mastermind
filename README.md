@@ -1,8 +1,10 @@
 # Problems - Mastermind
 
-* Modify `mastermind.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+Iteration 1: Create a simple implementation of Mastermind using what you know about data structures, loops and conditional statements.
+
+Iteration 2: Use functions to improve the code.
+
+Iteration 3: Improve the use of functions and return values, as well as applying testing techniques.
 
 ### To Run
 
